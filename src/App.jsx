@@ -888,7 +888,7 @@ const handleBackgroundUpload = (event) => {
 
       <footer className="footer">
   <p>
-    Realizado por Catriel Cabrera 👨‍💻 | Todos los derechos reservados ©️ 2024 | 
+    Realizado por Catriel Cabrera 👨‍💻 | Todos los derechos reservados ©️ 2025 | 
     Contacto: 📧 catrielcabrera97@gmail.com | 
     GitHub: 🚀 <a href="https://github.com/catriel458" target="_blank" rel="noopener noreferrer">@catriel458</a>
   </p>
