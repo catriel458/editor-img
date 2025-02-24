@@ -880,7 +880,6 @@ const handleBackgroundUpload = (event) => {
         <h3>Opciones Adicionales</h3>
         <div className="additional-options">
           <button className="button" onClick={rotateImage}>Rotar Imagen</button>
-          <button className="button" onClick={initFreeformCrop}>Recortar Imagen</button>
           <button className="button danger" onClick={clearCanvas}>Limpiar Lienzo</button>
           <button className="button primary" onClick={downloadImage}>Descargar Imagen</button>
         </div>
