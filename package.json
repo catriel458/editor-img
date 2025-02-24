@@ -22,14 +22,13 @@
     "@adobe/css-tools": "^4.3.1",
     "postcss": "^8.4.31"
   },
-"scripts": {
-  "prebuild": "npm install -g vite",
-  "start": "set BROWSER=none && set WDS_SOCKET_PORT=0 && vite --port 3000",
-  "build": "vite build",
-  "preview": "vite preview",
-  "test": "vitest"
-}
-,
+  "scripts": {
+    "prebuild": "npm install -g vite",
+    "start": "set BROWSER=none && set WDS_SOCKET_PORT=0 && ./node_modules/.bin/vite --port 3000",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
